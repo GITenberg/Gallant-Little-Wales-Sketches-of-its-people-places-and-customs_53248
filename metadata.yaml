@@ -1,5 +1,5 @@
 _repo: Gallant-Little-Wales-Sketches-of-its-people-places-and-customs_53248
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   adapter:
     agent_name: Marks, Jeannette Augustus
@@ -9,7 +9,12 @@ contributor:
     gutenberg_agent_id: '2559'
     url: http://www.gutenberg.org/2009/agents/2559
     wikipedia: https://en.wikipedia.org/wiki/Jeannette_Augustus_Marks
+covers:
+- cover_type: archival
+  image_path: 53248-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53248#Gallant-Little-Wales-Sketches-of-its-people-places-and-customs
 gutenberg_issued: '2016-10-10'
 gutenberg_type: Text
 identifiers:
